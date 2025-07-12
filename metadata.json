@@ -1,12 +1,12 @@
 {
-    name: "Tether USD",
-    symbol: "USDT",
-    description: "Tether Foundation",
-    image: "https://github.com/victoria9422vic6/test41/blob/main/usdt.svg",
-    attributes: [
-        {
-          trait_type: "Item",
-          value: "Climate"
-        }
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "description": "Tether Foundation",
+    "image": "https://github.com/victoria9422vic6/test41/blob/main/usdt.svg",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Climate"
+      }
     ]
-}
+  }
